@@ -1,0 +1,9 @@
+{
+  "ticker": "MSFT",
+  "current_price": 370.87,
+  "high": 375.64,
+  "low": 370.03,
+  "open": 372.98,
+  "prev_close": 373.07,
+  "source": "finnhub"
+}
